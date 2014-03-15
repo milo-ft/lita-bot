@@ -1,0 +1,8 @@
+name: 'Damnbot'
+mention_name: '@damnbot'
+alias: '/'
+locale: :es
+port: 111111
+admins:
+  - 1
+  - 2

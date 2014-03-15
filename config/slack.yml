@@ -1,0 +1,5 @@
+incoming_url: 'https://bbrmobile.slack.com/services/hooks/incoming-webhook'
+username: 'damnbot'
+add_mention: false
+incoming_token: 'jH0ZZePpgy2XTJv03tJSSMJ2'
+team_domain: 'bbrmobile'
